@@ -1,0 +1,54 @@
+.bg-main-container {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png");
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.heading {
+  font-family: "Bree Serif";
+  font-size: 32px;
+  color: #ffff;
+}
+
+.btn-container {
+  margin-top: 16px;
+}
+
+.btn-sty-1 {
+  height: 30px;
+  width: 80px;
+  font-family: "Roboto";
+  font-size: 12px;
+  color: #ffff;
+  background-color: #eab308;
+  border-radius: 10px;
+  border-width: 0px;
+  margin-right: 8px;
+}
+
+.btn-sty-2 {
+  height: 30px;
+  width: 100px;
+  font-family: "Roboto";
+  font-size: 12px;
+  color: #323f4b;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border-width: 0px;
+  margin-right: 8px;
+}
+
+.btn-sty-3 {
+  height: 30px;
+  width: 80px;
+  font-family: "Roboto";
+  font-size: 12px;
+  color: #ffff;
+  background-color: #1d4ed8;
+  border-radius: 10px;
+  border-width: 0px;
+}
